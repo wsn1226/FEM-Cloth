@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\T_cloth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\V_membrane_corotational.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\V_spring_particle_particle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\assemble_forces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\assemble_stiffness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\collision_detection_cloth_sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\d2V_membrane_corotational_dq2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\dV_cloth_gravity_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\dV_membrane_corotational_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\dV_spring_particle_particle_dq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\dphi_cloth_triangle_dX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\dsvd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\fixed_point_constraints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\mass_matrix_mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\pick_nearest_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\src\velocity_filter_cloth_sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\src\find_max_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\src\find_min_vertices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\src\init_state.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\src\read_tetgen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\src\visualization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\assignment_setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\T_cloth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\V_membrane_corotational.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\V_spring_particle_particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\assemble_forces.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\assemble_stiffness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\collision_detection_cloth_sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\d2V_membrane_corotational_dq2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\dV_cloth_gravity_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\dV_membrane_corotational_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\dV_spring_particle_particle_dq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\dphi_cloth_triangle_dX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\dsvd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\fixed_point_constraints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\linearly_implicit_euler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\mass_matrix_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\pick_nearest_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\include\velocity_filter_cloth_sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\EigenTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\find_max_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\find_min_vertices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\init_state.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\read_tetgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\shared\include\visualization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\18140\Desktop\study\UIUC Exchange\Physics_Animation\CSC417-a4-cloth-simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{82858019-43D4-37F4-9B0E-AE2142FEA316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69A31DD2-25DD-3220-B54A-010969651572}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

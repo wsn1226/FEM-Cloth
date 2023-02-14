@@ -1,0 +1,8 @@
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/CMakeFiles/a4-cloth-simulation.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/glad/CMakeFiles/glad.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/glad/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/glfw/src/CMakeFiles/glfw.dir
+C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/imgui/CMakeFiles/imgui.dir

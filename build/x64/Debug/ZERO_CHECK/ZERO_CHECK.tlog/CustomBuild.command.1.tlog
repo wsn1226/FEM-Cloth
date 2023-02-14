@@ -1,0 +1,10 @@
+^C:\USERS\18140\DESKTOP\STUDY\UIUC EXCHANGE\PHYSICS_ANIMATION\CSC417-A4-CLOTH-SIMULATION\BUILD\CMAKEFILES\809794FAA6B41A6CAF19872329DC30EC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation" "-BC:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/18140/Desktop/study/UIUC Exchange/Physics_Animation/CSC417-a4-cloth-simulation/build/a4-cloth-simulation.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
